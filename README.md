@@ -2,6 +2,7 @@
 The explanation behind a simple (theoretical) binary interface capable of completing simple drawing tasks.
 
 Imagine a 7x7 grid, where the bottom left position is (0,0), and the top right is (7,7). Such as the one below:
+
 In this grid, simple shapes can be drawn by first establishing points and making a line between them.
 A point is encoded with three bits for its x coordinate and three for its y coordinate. 
 
